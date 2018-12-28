@@ -50,7 +50,8 @@ Available Downloads
 <td align='left' valign='top'>
 <B>Instructions:</b>
 <BR>--Coming Soon--
-<P><B>Parts List:</b>
+<BR><BR>
+<B>Parts List:</b>
 <BR>--Coming Soon--
 </tr>
 
@@ -64,7 +65,8 @@ Available Downloads
 <td align='left' valign='top'>
 <B>Instructions:</b>
 <BR>--Coming Soon--
-<P><B>Parts List:</b>
+<BR><BR>
+<B>Parts List:</b>
 <BR>--Coming Soon--
 </tr>
 
@@ -78,7 +80,8 @@ Available Downloads
 <td align='left' valign='top'>
 <B>Instructions:</b>
 <BR>--Coming Soon--
-<P><B>Parts List:</b>
+<BR><BR>
+<B>Parts List:</b>
 <BR>--Coming Soon--
 </tr>
 </table>
