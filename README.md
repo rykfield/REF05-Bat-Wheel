@@ -34,6 +34,7 @@ Available Downloads
 <td align='left' valign='top'>
 <B>Instructions:</b>
 <BR>--Coming Soon--
+<BR>
 <P><B>Parts List:</b>
 <BR>--Coming Soon--
 </td>
