@@ -32,12 +32,10 @@ Available Downloads
 <img width=254 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_batgirl_module.png">
 </td>
 <td align='left' valign='top'>
-Coming Soon...
-<P><B>Instructions:</b>
+<B>Instructions:</b>
 <BR>--Coming Soon--
 <P><B>Parts List:</b>
 <BR>--Coming Soon--
-
 </td>
 </tr>
 
@@ -48,9 +46,11 @@ Coming Soon...
 <td align='left'>
 <img width=254 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_classic_module.png">
 </td>
-<td align='left'>
-Coming Soon...
-</td>
+<td align='left' valign='top'>
+<B>Instructions:</b>
+<BR>--Coming Soon--
+<P><B>Parts List:</b>
+<BR>--Coming Soon--
 </tr>
 
 <tr border=0>
@@ -60,9 +60,11 @@ Coming Soon...
 <td align='left'>
 <img width=254 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_robin_module.png">
 </td>
-<td align='left'>
-Coming Soon...
-</td>
+<td align='left' valign='top'>
+<B>Instructions:</b>
+<BR>--Coming Soon--
+<P><B>Parts List:</b>
+<BR>--Coming Soon--
 </tr>
 
 <tr border=0>
@@ -72,9 +74,11 @@ Coming Soon...
 <td align='left'>
 <img width=254 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_black_module.png">
 </td>
-<td align='left'>
-Coming Soon...
-</td>
+<td align='left' valign='top'>
+<B>Instructions:</b>
+<BR>--Coming Soon--
+<P><B>Parts List:</b>
+<BR>--Coming Soon--
 </tr>
 </table>
 
