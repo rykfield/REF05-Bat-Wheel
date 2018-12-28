@@ -4,8 +4,9 @@
 <h2>
 The <i>Bat Wheel</i> is available in four editions.  Choose the colour scheme to suit your preferred Superhero... 
 </h2>
-<br>
+<h2>
 <img width=639 height=382 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/GIF-AllModels.gif">
+</h2>
 <BR><BR>
 <center>
 
