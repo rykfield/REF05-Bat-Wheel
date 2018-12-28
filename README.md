@@ -9,10 +9,10 @@
 
 <tr border=0>
 <td align='left'>
-<img width=300 height=380 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_batgirl_fig.png">
+<img width=150 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_batgirl_fig.png">
 </td>
 <td align='left'>
-<img width=507 height=380 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_batgirl_module.png">
+<img width=507 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_batgirl_module.png">
 </td>
 <td align='left'>
 Coming Soon...
@@ -21,10 +21,10 @@ Coming Soon...
 
 <tr border=0>
 <td align='left'>
-<img width=300 height=380 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_classic_fig.png">
+<img width=300 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_classic_fig.png">
 </td>
 <td align='left'>
-<img width=507 height=380 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_classic_module.png">
+<img width=507 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_classic_module.png">
 </td>
 <td align='left'>
 Coming Soon...
