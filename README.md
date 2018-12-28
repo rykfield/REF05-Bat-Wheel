@@ -31,10 +31,12 @@ Available Downloads
 <td align='left'>
 <img width=254 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_batgirl_module.png">
 </td>
-<td align='left'>
+<td align='left' valign='top'>
 Coming Soon...
-<P>Instructions: --Coming Soon--
-<P>Parts List: --Coming Soon--
+<P><B>Instructions:</b>
+<BR>--Coming Soon--
+<P><B>Parts List:</b>
+<BR>--Coming Soon--
 
 </td>
 </tr>
