@@ -14,6 +14,18 @@ The <i>Bat Wheel</i> is available in four editions.  Choose the colour scheme to
 
 <tr border=0>
 <td align='left'>
+Superhero
+</td>
+<td align='left'>
+Colour Scheme
+</td>
+<td align='left'>
+Available Downloads
+</td>
+</tr>
+
+<tr border=0>
+<td align='left'>
 <img width=150 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_batgirl_fig.png">
 </td>
 <td align='left'>
