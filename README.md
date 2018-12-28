@@ -12,7 +12,7 @@
 <img width=150 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_batgirl_fig.png">
 </td>
 <td align='left'>
-<img width=507 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_batgirl_module.png">
+<img width=254 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_batgirl_module.png">
 </td>
 <td align='left'>
 Coming Soon...
@@ -21,22 +21,10 @@ Coming Soon...
 
 <tr border=0>
 <td align='left'>
-<img width=300 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_classic_fig.png">
+<img width=150 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_classic_fig.png">
 </td>
 <td align='left'>
-<img width=507 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_classic_module.png">
-</td>
-<td align='left'>
-Coming Soon...
-</td>
-</tr>
-
-<tr border=0>
-<td align='left'>
-<img width=300 height=380 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_robin_fig.png">
-</td>
-<td align='left'>
-<img width=507 height=380 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_robin_module.png">
+<img width=254 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_classic_module.png">
 </td>
 <td align='left'>
 Coming Soon...
@@ -45,10 +33,22 @@ Coming Soon...
 
 <tr border=0>
 <td align='left'>
-<img width=300 height=380 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_black_fig.png">
+<img width=150 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_robin_fig.png">
 </td>
 <td align='left'>
-<img width=507 height=380 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_black_module.png">
+<img width=254 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_robin_module.png">
+</td>
+<td align='left'>
+Coming Soon...
+</td>
+</tr>
+
+<tr border=0>
+<td align='left'>
+<img width=150 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_black_fig.png">
+</td>
+<td align='left'>
+<img width=254 height=190 src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/ref05_black_module.png">
 </td>
 <td align='left'>
 Coming Soon...
