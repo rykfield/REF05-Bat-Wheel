@@ -2,7 +2,7 @@
 # REF05-Bat-Wheel
 <img width="800" height="313" src="https://github.com/rykfield/REF05-Bat-Wheel/raw/master/CombinationMasthead.png">
 <h2>
-The Bat Wheel is available in four editions.  Choose the colour scheme to suit your preferred Superhero...
+The <cite>Bat Wheel</cite> is available in four editions.  Choose the colour scheme to suit your preferred Superhero...
 </h2>
 <BR><BR>
 <center>
