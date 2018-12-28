@@ -13,7 +13,7 @@ The <i>Bat Wheel</i> is available in four editions.  Choose the colour scheme to
 <table border=0>
 
 <tr border=0>
-<td align='centre'>
+<td align='center'>
 Superhero
 </td>
 <td align='centre'>
