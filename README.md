@@ -20,7 +20,7 @@ Superhero
 Colour Scheme
 </td>
 <td align='left'>
-Available Downloads
+Available Downloads (Right Click to download)
 </td>
 </tr>
 
