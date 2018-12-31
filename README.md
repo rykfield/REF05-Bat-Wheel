@@ -33,7 +33,7 @@ Available Downloads (Right Click to download)
 </td>
 <td align='left' valign='top'>
 <B>Instructions:</b>
-<BR>--Coming Soon--
+<BR>https://github.com/rykfield/REF05-Bat-Wheel/raw/master/REF05-Bat-Wheel-Batgirl.pdf
 <BR><BR>
 <B>Parts List:</b>
 <BR>https://raw.githubusercontent.com/rykfield/REF05-Bat-Wheel/master/Bat%20Wheel%20-%20Batgirl%20Edition.xml
@@ -49,7 +49,7 @@ Available Downloads (Right Click to download)
 </td>
 <td align='left' valign='top'>
 <B>Instructions:</b>
-<BR>--Coming Soon--
+<BR>https://github.com/rykfield/REF05-Bat-Wheel/raw/master/REF05-Bat-Wheel-Classic.pdf
 <BR><BR>
 <B>Parts List:</b>
 <BR>https://raw.githubusercontent.com/rykfield/REF05-Bat-Wheel/master/Bat%20Wheel%20-%20Classic%20Edition.xml
@@ -64,7 +64,7 @@ Available Downloads (Right Click to download)
 </td>
 <td align='left' valign='top'>
 <B>Instructions:</b>
-<BR>--Coming Soon--
+<BR>https://github.com/rykfield/REF05-Bat-Wheel/raw/master/REF05-Bat-Wheel-Robin.pdf
 <BR><BR>
 <B>Parts List:</b>
 <BR>https://raw.githubusercontent.com/rykfield/REF05-Bat-Wheel/master/Bat%20Wheel%20-%20Robin%20Edition.xml
@@ -79,7 +79,7 @@ Available Downloads (Right Click to download)
 </td>
 <td align='left' valign='top'>
 <B>Instructions:</b>
-<BR>--Coming Soon--
+<BR>https://github.com/rykfield/REF05-Bat-Wheel/raw/master/REF05-Bat-Wheel-Black.pdf
 <BR><BR>
 <B>Parts List:</b>
 <BR>https://raw.githubusercontent.com/rykfield/REF05-Bat-Wheel/master/Bat%20Wheel%20-%20Black%20Edition.xml
